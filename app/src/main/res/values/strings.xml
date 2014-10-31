@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Todos_Sonidos</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_username">Username: </string>
+    <string name="fld_username"> </string>
+    <string name="lbl_enter_username">Enter your username</string>
+    <string name="lbl_pwd">Password: </string>
+    <string name="fld_pwd"> </string>
+    <string name="lbl_enter_pwd">Enter your password</string>
+    <string name="lbl_login">Login</string>
+
+</resources>
